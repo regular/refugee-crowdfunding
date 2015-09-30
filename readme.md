@@ -68,7 +68,7 @@ The prerequisites are:
 
 - 4x 400 EUR Laptop
 - 12x 3000 EUR teacher salary
-37.200 EUR
+- total: 37.200 EUR
 
 ###Perks:
 
