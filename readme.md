@@ -64,34 +64,34 @@ The prerequisites are:
 - must be able to come to Berlin-Kreuzberg (Schlesisches Tor) on a bi-weekly basis
 - no prior computer knowledge required.
 
-Funding Goal
+##Funding Goal
 
-4x 400 EUR Laptop
-12x 3000 EUR teacher salary
+- 4x 400 EUR Laptop
+- 12x 3000 EUR teacher salary
 37.200 EUR
 
-Perks:
+###Perks:
 
-20
-    she.codes stickers
-50
-    she.codes T-Shirt
-100
-    T-Shirt and Stickers
-400
-    T-Shirt and Stickers
-    audio message: Thank you from the students
-800
-    T-Shirt and Stickers
-    audio message: Thank you from the students
-    You receive the learning material in printed form (or, if you prefer, as pdf)
-1000
-    audio message
-    students make a thank-you homepag with your name and logo on it
-4000
-    students make a thank-you homepag with your name and logo on it
-    and we put a personalized thank-you video on it
-8000
-    The students design and build an HTML5-based game with your logo and company name
-10000
-    You or your company  are named as a sponsor on the she.codes homepage (with your lgogo) for a period of this project (one year)
+- 20
+    - she.codes stickers
+- 50
+    - she.codes T-Shirt
+- 100
+    - T-Shirt and Stickers
+- 400
+    - T-Shirt and Stickers
+    - audio message: Thank you from the students
+- 800
+    - T-Shirt and Stickers
+    - audio message: Thank you from the students
+    - You receive the learning material in printed form (or, if you prefer, as pdf)
+- 1000
+    - audio message
+    - students make a thank-you homepag with your name and logo on it
+- 4000
+    - students make a thank-you homepag with your name and logo on it
+    - and we put a personalized thank-you video on it
+- 8000
+    - The students design and build an HTML5-based game with your logo and company name
+- 10000
+    - You or your company  are named as a sponsor on the she.codes homepage (with your lgogo) for a period of this project (one year)
