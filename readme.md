@@ -68,28 +68,10 @@ The prerequisites are:
 - 12x 3000 EUR teacher salary
 - total: 37.200 EUR
 
-###Perks:
+## Project Plan
 
-- 20
-    - she.codes stickers
-- 50
-    - she.codes T-Shirt
-- 100
-    - T-Shirt and Stickers
-- 400
-    - T-Shirt and Stickers
-    - audio message: Thank you from the students
-- 800
-    - T-Shirt and Stickers
-    - audio message: Thank you from the students
-    - You receive the learning material in printed form (or, if you prefer, as pdf)
-- 1000
-    - audio message
-    - students make a thank-you website with your name and logo on it
-- 4000
-    - students make a thank-you website with your name and logo on it
-    - and we put a personalized thank-you video on it
-- 8000
-    - The students design and build an HTML5-based game with your logo and company name
-- 10000
-    - You or your company are named as a sponsor on the she.codes homepage (with your lgogo) for the period of this project (one year)
+- **Nov 2015** Finding sponsors and media partners
+- **Dec 2015** Crowdfunding campaign
+- **Jan - Mar 2016** Phase I: kitchen session with four students
+- **Apr - Dec 2016** Phase II: Continue kitchen-sessions, additional session in refugee homes (students become teachers)
+- **Jan 2017** Find jobs for first wave of students
