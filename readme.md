@@ -23,8 +23,8 @@ The goal of this campaign is to fund the qaulification of four refugee women in 
 At the same time, these four women will receive material they can use to teach men and women of their chosing. As soon as they are legally allowed to work, we will work on finding jobs in companies that offer a welcoming work environment.
 
 ## The Format
-There will be two four-hour sessions a week in groups of two. They will learn to solve problems as a pair (pair programming) and therefore not only acquire technical skills but also the communications skills required for modern software development.
-Additionally, all four women are highly encouraged to meet for two more weekly sessions among themselves to work on small assignments either as a group or as a pair.
+There will be two four-hour sessions a week in groups of two. The students will learn to solve problems as a pair (pair programming) and therefore not only acquire technical skills but also the communications skills required for modern software development.
+Additionally, all four women are highly encouraged to meet for one or two more weekly sessions among themselves to work on small assignments either as a group or as a pair.
 This three sessions/week format will continue for one year.
 
 In the [most recent installment of "Last week tonight"](https://www.youtube.com/watch?v=umqvYhb3wf4), John Oliver points out that Germany would be Europe's only country providing a warm welcome for refugees. Help us to make a tiny contribution to integration and to live up to John's kind words!
