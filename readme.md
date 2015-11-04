@@ -1,3 +1,6 @@
+
+# D R A F T
+
 # Berlin Programming School for Refugee Women
 
 ## Berlin receives a wave of new citizens
@@ -30,7 +33,6 @@ This three sessions/week format will continue for one year.
 In the [most recent installment of "Last week tonight"](https://www.youtube.com/watch?v=umqvYhb3wf4), John Oliver points out that Germany would be Europe's only country providing a warm welcome for refugees. Help us to make a tiny contribution to integration and to live up to John's kind words!
 
 ##I did this before
-
 I have been a professional software developer for more than twenty years. (see [my profile on Linkedin](https://www.linkedin.com/in/regular)). During my entire career, I worked with no more than three female developers. I always was slightly annoyed by the testosterone-driven culture at many companies. I recently helped a Berlin-based software company with their recruitment efforts by writing welcoming and inclusive job ads for them.
 
 Together with Olena Levitsky I founded *she.codes -- the social coding school for women*. Besides building an open source web platform and writing learning materials (CC licensed) for self-teaching coding skills, I am currently personally teaching eight women in the same format as described above (four groups of two each). The women's backgrounds range from artist, project manager, social worker to scientist. They come from Italy, Germany, Azerbaijan and Portugal. Even though we only meet once a week (in my kitchen), two of the women already found a job as junior developers in two Berlin-based startups.
@@ -62,8 +64,7 @@ The prerequisites are:
 - must be able to come to Berlin-Kreuzberg (Schlesisches Tor) on a bi-weekly basis
 - no prior computer knowledge required.
 
-##Funding Goal
-
+## Funding Goal
 - 4x 400 EUR Laptop
 - 12x 3000 EUR teacher salary
 - total: 37.200 EUR
@@ -72,6 +73,7 @@ The prerequisites are:
 
 - **Nov 2015** Finding sponsors and media partners
 - **Dec 2015** Crowdfunding campaign
-- **Jan - Mar 2016** Phase I: kitchen session with four students
-- **Apr - Dec 2016** Phase II: Continue kitchen-sessions, additional session in refugee homes (students become teachers)
+- **Jan 2016** Finding students, match-making, planning
+- **Feb 2016 - Jun 2016** Phase I: kitchen session with four students
+- **Jun 2016 - Feb 2017** Phase II: Continue kitchen-sessions, additional session in refugee homes (students become teachers)
 - **Jan 2017** Find jobs for first wave of students
